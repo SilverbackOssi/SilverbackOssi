@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - 👯 I’m looking to collaborate on open-source projects that can make a difference.
 - 🤔 I’m open to help with coding challenges and project ideas.
 - 💬 Ask me about anything related to Python, JavaScript, or web development.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love hiking and exploring nature in my free time.
+- 📫 How to reach me: [anyimossi.dev@gmail.com](mailto:anyimossi.dev@gmail.com)
+- ⚡ Fun fact: I love making art and exploring nature in my free time.
 
 ## Tech Stack
 
