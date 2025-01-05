@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm SilverbackOssi 👋
 
-<!--
-**SilverbackOssi/SilverbackOssi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer always eager to learn and contribute to the open-source community.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various exciting projects in web development and machine learning.
+- 🌱 I’m continuously learning and exploring new technologies and frameworks.
+- 👯 I’m looking to collaborate on open-source projects that can make a difference.
+- 🤔 I’m open to help with coding challenges and project ideas.
+- 💬 Ask me about anything related to Python, JavaScript, or web development.
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- ⚡ Fun fact: I love hiking and exploring nature in my free time.
+
+## Tech Stack
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Express, Django
+- **Tools & Platforms:** Git, Docker, AWS, Heroku
+- **Databases:** MySQL, MongoDB, PostgreSQL
+
+## GitHub Stats
+
+![SilverbackOssi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilverbackOssi&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverbackOssi&layout=compact&theme=radical)
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+Feel free to check out my repositories and get in touch. Let's build something amazing together!
