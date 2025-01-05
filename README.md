@@ -1,10 +1,10 @@
-# Hi there, I'm SilverbackOssi 👋
+# Hi there, I'm Ossi 👋
 
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn and contribute to the open-source community.
+Welcome to my GitHub profile! I'm a passionate developer eager to learn and contribute to the open-source community.
 
 ## About Me
 
-- 🔭 I’m currently working on various exciting projects in web development and machine learning.
+- 🔭 I’m currently working on various exciting web development and machine learning projects.
 - 🌱 I’m continuously learning and exploring new technologies and frameworks.
 - 👯 I’m looking to collaborate on open-source projects that can make a difference.
 - 🤔 I’m open to help with coding challenges and project ideas.
