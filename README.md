@@ -1,6 +1,6 @@
 # Hi Love, I'm Ossi! Let’s create something amazing!
 
-🚀 **Python Developer | Fintech Enthusiast | Open Banking Specialist** 
+🚀 **Python Developer | Fintech/Open Banking Enthusiast** 
 
 Welcome to my GitHub profile! I'm a passionate developer eager to learn and contribute to the open-source community.
 
