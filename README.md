@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and cont
 
 ## 🛠️ **What I'm Working On**
 
-- 🌐 **Open Banking API Simulator**: Simulating account aggregation and payment initiation using Django REST Framework.
+- 🌐 **[Open Banking API Simulator](https://github.com/SilverbackOssi/Open-Banking-Api-Simulator)**: Simulating account aggregation and payment initiation using Django REST Framework.
 - 📊 **Forex Trading Automation System**: Developing Python-based scripts for data-driven trading and risk management.
 - 💼 **Telegram Crypto Exchange Bot**: Building crypto-fiat swap solutions integrated with APIs.
 
