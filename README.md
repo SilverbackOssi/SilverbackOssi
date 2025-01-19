@@ -1,9 +1,10 @@
 # Hi Love, I'm Ossi! Let’s create something amazing!
 
- **Python Developer | Data science and Finance Enthusiast** 
+ **Python Developer | Data Science and Finance Enthusiast** 
 
 Welcome to my GitHub profile! I'm a passionate developer eager to learn and contribute to the open-source community.
-Mercenary the way i hunt brilliant ideas, take them, from start to finish.
+
+Mercenary in the way I hunt brilliant ideas, taking them from start to finish.
 
 ## About Me
 
