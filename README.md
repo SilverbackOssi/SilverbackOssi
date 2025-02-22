@@ -1,10 +1,10 @@
-# Hi Love, I'm Ossi! Let’s create something amazing!
+# Hi there, I'm Ossi! Let’s create something amazing together!
 
  **Fintech, Open Banking, Data Science and Finance Enthusiast** 
 
 Welcome to my GitHub profile! I'm a passionate developer eager to learn and contribute to the open-source community.
 
-I am mercenary in hunting brilliant ideas, taking them from start to finish.
+
 
 ### About Me
 
