@@ -1,5 +1,8 @@
 
-# Software Engineer | Data Engineer | AI & Automations
+![](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&color=blueviolet&style=flat-square)
+[](https://komarev.com/ghpvc/?username=SilverbackOssi&color=blueviolet&style=flat-square)
+
+# AI Software Engineer | Data Engineer | AI & Automations
 
 I love these topics:
  **Big Data, Fintech, AlgoTrading, Open Banking, Data Science, Finance, Artificial intelligence, Blockchain** 
@@ -9,8 +12,11 @@ I am a designer at heart.
 
 ---
 
-## Top Languages
+## Summary Cards
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverbackOssi&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilverbackOssi&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilverbackOssi&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SilverbackOssi&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SilverbackOssi&theme=tokyonight)
 
 ---
