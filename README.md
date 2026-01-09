@@ -1,6 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&color=blueviolet&style=flat-square)
-[](https://komarev.com/ghpvc/?username=SilverbackOssi&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=SilverbackOssi&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anyimossi/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anyimossi.dev@gmail.com)
 
